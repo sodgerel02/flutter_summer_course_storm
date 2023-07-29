@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 
-class ProfileScreen extends StatelessWidget{
+c class ProfileScreen extends StatelessWidget{
   const ProfileScreen({super.key});
+
 
   @override
   Widget build(BuildContext context){
@@ -36,6 +37,22 @@ class ProfileScreen extends StatelessWidget{
         Text("Wolfram Barkovich", style: TextStyle(
           fontSize: 35,
           fontWeight: FontWeight.w600
+          _buildDetailsRow('Age','4'),
+          _buildDetailsRow('Status','GoodBoy'),
+
+    Widget _buildDetailsRow(String heading,String value){
+            return Row(
+            children: [
+              Text('$heading',style:TextStyle(fontWidget:FrontWeidht.bold)),
+            Text("$value"),
+
+
+
+            ],
+            )
+    }
+
+
 
         ),),
 
