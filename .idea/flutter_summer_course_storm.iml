@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/day_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day_10_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day_10_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_10_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day_13_course_xxxx/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_13_course_xxxx/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day_13_course_xxxx/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day_09_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day_09_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_09_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/course_day_13_strome/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/course_day_13_strome/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/course_day_13_strome/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_15_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day_15_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_15_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day_16_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day_16_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day_16_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_09/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day_09/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_09/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day_07/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day_07/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day_07/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_08/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_08/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/day_08/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/wordfind_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/wordfind_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/wordfind_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_14flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/day_14flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/day_14flutter/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
