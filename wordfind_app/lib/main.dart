@@ -5,7 +5,7 @@ void main() {
   runApp(MaterialApp(
       title: 'Word Find Game',
       theme: ThemeData(fontFamily: "Ribeye"),
-      home: Scaffold(
-        body: WelcomPage(),
+      home: const Scaffold(
+        body: WelcomePage(),
       )));
 }

@@ -9,17 +9,19 @@ class GradiantText extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(text,
-        style: TextStyle(
-          fontSize: size,
-          foreground: Paint()
-            ..shader = const LinearGradient(
-              colors: [Color(0xFFE86B02), Color(0xFFFA9541)],
-              begin: Alignment.topLeft,
-              end: Alignment.bottomRight,
-              stops: [0.0661,0.761],
-              transform: GradientRotation(88.82),
-            ).createShader(const Rect.fromLTWH(0.0,0.0, 200.0, 70.0)),
+      style: TextStyle(
+        fontSize: size,
+        foreground: Paint()
+          ..shader = const LinearGradient(
+            colors: [Color(0xFFE86B02), Color(0xFFFA9541)],
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            stops: [0.0661, 0.761],
+            transform: GradientRotation(88.82),
+          ).createShader(const Rect.fromLTWH(0.0, 0.0, 200.0, 70.0)),
+      ),
 
-        ));
+
+    );
   }
 }
