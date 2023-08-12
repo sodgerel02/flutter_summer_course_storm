@@ -41,7 +41,34 @@ class WelcomePage extends StatelessWidget {
               image: AssetImage('assets/back1.png'),
               fit: BoxFit.cover,
             ))),
-    floatingActionButton: ,
-    );
+        floatingActionButton: Container(
+          width: 310,
+          height: 60,
+          decoration: BoxDecoration(
+              gradient: LinearGradient(
+                begin: Alignment.centerLeft,
+                end: Alignment.centerRight,
+                colors: [Color(0xFFF86B02), Color(0xFFFA9541)],
+              ),
+              borderRadius: BorderRadius.circular(25)),
+          child: ElevatedButton(
+            child: Text(
+              'PLAY',
+              style: TextStyle(
+                  fontSize: 24,
+                  fontFamily: 'Nunito',
+                  fontWeight: FontWeight.w700),
+            ),
+            onPressed: () {},
+            style: ElevatedButton.styleFrom(
+              shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(
+                25,
+              )),
+              backgroundColor: Colors.transparent,
+              elevation: 0,
+            ),
+          ),
+        ),floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,);
   }
 }
